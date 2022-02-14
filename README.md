@@ -1,6 +1,6 @@
 # Java-Program
 
-1.Determine if the Numbder is Positive or Negative 
+1.Determine if the Number is Positive or Negative 
 
 2.Determine if the Numbder is Even or Odd
 
